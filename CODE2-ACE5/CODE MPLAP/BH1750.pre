@@ -1,0 +1,52 @@
+
+# 1 "E:\DANG HONG CHUC\DO AN C\BH1750_demo\BH1750FVI Digital Lux Meter\BH1750.c"
+
+# 18 "E:\DANG HONG CHUC\DO AN C\BH1750_demo\BH1750FVI Digital Lux Meter\BH1750.h"
+void BH1750_init();
+void BH1750_write(unsigned char cmd);
+unsigned long BH1750_read_word();
+unsigned long get_lux_value(unsigned char mode, unsigned long delay_time);
+
+# 4 "E:\DANG HONG CHUC\DO AN C\BH1750_demo\BH1750FVI Digital Lux Meter\BH1750.c"
+void BH1750_init()
+{
+delay_ms(100);
+BH1750_write(0x00);
+}
+
+
+void BH1750_write(unsigned char cmd)
+{
+I2C_start();
+I2C_write(0x46);
+I2C_write(cmd);
+I2C_stop();
+}
+
+
+
+unsigned long BH1750_read_word()
+{
+register unsigned long value = 0;
+unsigned char lb = 0;
+unsigned char hb = 0;
+I2C_start();
+I2C_write(0x47);
+hb = I2C_read(1);
+lb = I2C_read(0);
+I2C_stop();
+value = make16(hb, lb);
+return value;
+}
+
+
+unsigned long get_lux_value(unsigned char mode, unsigned long delay_time)
+{
+register unsigned long lux_value = 0;
+BH1750_write(0x01);
+BH1750_write(mode);
+lux_value = BH1750_read_word();
+delay_ms(delay_time);
+BH1750_write(0x00);
+return lux_value;
+}
