@@ -1,0 +1,39 @@
+
+# 1 "E:\DANG HONG CHUC\DO AN C\DOANC\coe lux\lux.c"
+void BH1750_init()
+{
+delay_ms(100);
+BH1750_write(power_down);
+}
+
+
+void BH1750_write()
+{
+I2C_start();
+I2C_write(0x46);
+I2C_write(0x10);
+I2C_stop();
+}
+
+
+
+unsigned long BH1750_read()
+{
+unsigned char value,value1;
+unsigned char lb = 0;
+unsigned char hb = 0;
+I2C_start();
+I2C_write(0x47);
+hb = I2C_read(1);
+lb = I2C_read(0);
+I2C_stop();
+value =(hb<<8)+lb;
+value1=(float)value/1.2;
+}
+void delay_ms(int x)
+{
+int i=0;
+for(;i<x;i++){
+_delay(1000);
+}
+}
