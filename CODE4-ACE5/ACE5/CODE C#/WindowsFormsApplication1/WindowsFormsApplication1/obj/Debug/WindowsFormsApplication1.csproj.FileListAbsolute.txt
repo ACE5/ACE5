@@ -1,0 +1,107 @@
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.Web.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.Web.xml
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.Web.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.Web.xml
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.Web.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.Web.xml
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\DANG HONG CHUC\DO AN C\DOANC\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HACKATHON\DO AN C-UART\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\HACKATHON\DO AN C-UART\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\HACKATHON\DO AN C-UART\CODE C# - chart - PID\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.Web.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.Web.xml
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CODE4-ACE5\ACE5\CODE C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
